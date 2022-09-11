@@ -20,8 +20,8 @@ const projects = [
   {
     name: 'Ice Fishing',
     description:
-      'A remake of the classic Club-Penguin game, Ice Fishing',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'A remake of the classic Club Penguin game, for IOS and Android devices',
+    stack: ['C++', 'Javascript'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
