@@ -22,8 +22,7 @@ const projects = [
     description:
       'A remake of the classic Club Penguin game, for IOS and Android devices',
     stack: ['C++', 'Javascript'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/ReduxeStudios/icefishing',
   },
   {
     name: 'Project 2',
