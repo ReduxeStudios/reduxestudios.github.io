@@ -7,7 +7,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Reduxe Studios',
-  role: 'Creating Games for Roblox',
+  role: 'Creating Projects',
   social: {
   },
 }
