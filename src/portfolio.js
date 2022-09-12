@@ -23,11 +23,11 @@ const projects = [
     sourceCode: 'https://github.com/ReduxeStudios/icefishing',
   },
   {
-    name: 'Project 2',
+    name: 'Techwear-Store',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
+      'Clothing website made as a part of my learning to code journey',
+    stack: ['HTML', 'Javascript', 'PHP'],
+    sourceCode: 'https://github.com/ReduxeStudios/Techwear-Store',
     livePreview: 'https://github.com',
   },
   {
